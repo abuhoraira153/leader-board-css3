@@ -124,6 +124,7 @@ main{
      }
      .players, .blogs, .courses{
          grid-template-columns: repeat(1,1fr);
+         padding: 0 15px;
      }
      .player{
          flex-direction: column;
